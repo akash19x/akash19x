@@ -1,26 +1,48 @@
+<h1 align="center">Hi 👋, I'm Akash Mishra</h1>
+<h3 align="center">Akash is a software engineer having 2 years of industry experience of working in Python and Data Analysis. He is currently learning Data Science and loves creating youtube videos and writing blogs on tech related topics.</h3>
 
-# Hi, I'm Akash! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash19x&label=Profile%20views&color=0e75b6&style=flat" alt="akash19x" /> </p>
 
-Akash is a software engineer having 2 years of industry experience of working in Python and Data Analysis. He is currently learning Data Science and loves creating youtube videos and writing blogs on tech related topics.
-## 🛠 Skills
-Python, Data Analysis, SQL, Machine Learning, Technical Writing
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash19x" alt="akash19x" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/switchhitx" target="blank"><img src="https://img.shields.io/twitter/follow/switchhitx?logo=twitter&style=for-the-badge" alt="switchhitx" /></a> </p>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://znap.link/akashmishra)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-mishraa/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/switchhitx)
+- 🔭 I’m currently working on **a Fundamental Analysis of stocks project.**
 
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-## More about me :
-👩‍💻 I'm currently working on a Fundamental Analysis of stocks project.
+- 👨‍💻 All of my projects are available at [https://github.com/akash19x?tab=repositories](https://github.com/akash19x?tab=repositories)
 
-🧠 I'm currently learning Data Science and Blockchain
+- 📝 I regularly write articles on [akashmishra.hashnode.dev](akashmishra.hashnode.dev)
 
-👯‍♀️ I'm looking to collaborate on Python and Data Science related projects.
+- 💬 Ask me about **Machine Learning and Data related things.**
 
-🤔 I'm looking for help with Blockchain and web3 technology.
+- 📫 How to reach me **adoreakash99@gmail.com**
 
-💬 Ask me about data related.
+- 📄 Know about my experiences [https://www.linkedin.com/in/akash-mishraa/](https://www.linkedin.com/in/akash-mishraa/)
 
-⚡️ Fun fact : I love football and love creating content on youtube and blogging.
+- ⚡ Fun fact **I love football and love creating content on youtube and blogging.**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/switchhitx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="switchhitx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akash-mishraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-mishraa" height="30" width="40" /></a>
+<a href="https://kaggle.com/akashmishra75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akashmishra75" height="30" width="40" /></a>
+<a href="https://hashnode.com/@akashmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@akashmishra" height="30" width="40" /></a>
+<a href="https://medium.com/@akashmishra75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashmishra75" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/techbies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techbies" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akashmishra75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashmishra75" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash19x&show_icons=true&locale=en&layout=compact" alt="akash19x" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash19x&show_icons=true&locale=en" alt="akash19x" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash19x&" alt="akash19x" /></p>
