@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Mishra</h1>
-<h3 align="center">Akash is a software engineer having 2 years of industry experience of working in Python and Data Analysis. He is currently learning Data Science and loves creating youtube videos and writing blogs on tech related topics.</h3>
+<h3 align="center">I'm a software engineer and currently learning Data Science and loves creating youtube videos and writing blogs on tech related topics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash19x&label=Profile%20views&color=0e75b6&style=flat" alt="akash19x" /> </p>
 
