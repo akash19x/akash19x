@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Python and the beautiful road ahead](https://medium.com/@akashmishra75/getting-started-with-python-and-the-beautiful-road-ahead-16137774e796?source=rss-38319d0d9864------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
