@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Machine Learning and Data related things.**
 
-- 📫 How to reach me **adoreakash99@gmail.com**
+- 📫 How to reach me **adox19x@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/akash-mishraa/](https://www.linkedin.com/in/akash-mishraa/)
 
