@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I love football and love creating content on youtube and blogging.**
 
-### Blogs posts
+### Some popular Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [10 Common SQL operations to perform using Pandas](https://medium.com/@akashmishra75/10-common-sql-operations-to-perform-using-pandas-81391246b92b?source=rss-38319d0d9864------2)
 - [Getting Started with Python and the beautiful road ahead](https://medium.com/@akashmishra75/getting-started-with-python-and-the-beautiful-road-ahead-16137774e796?source=rss-38319d0d9864------2)
@@ -46,8 +46,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash19x&show_icons=true&locale=en" alt="akash19x" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash19x&" alt="akash19x" /></p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
