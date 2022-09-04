@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/switchhitx" target="blank"><img src="https://img.shields.io/twitter/follow/switchhitx?logo=twitter&style=for-the-badge" alt="switchhitx" /></a> </p>
 
-- 🔭 I’m currently working on **a Fundamental Analysis of stocks project.**
+- 📝 I regularly write articles on [www.medium.com/@akashmishra75](www.medium.com/@akashmishra75)
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🔭 I’m currently working on **improving my data engineering and machine learning skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akash19x?tab=repositories](https://github.com/akash19x?tab=repositories)
 
-- 📝 I regularly write articles on [akashmishra.hashnode.dev](akashmishra.hashnode.dev)
-
-- 💬 Ask me about **Machine Learning and Data related things.**
+- 💬 Ask me about **Python, databases, Data warehousing, data engineering and machine learning**
 
 - 📫 How to reach me **adox19x@gmail.com**
 
