@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I love football and love creating content on youtube and blogging.**
 
+- ⚡ Open Source Badges : (https://www.holopin.io/@akash19x)**
+
 ### Some popular Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [10 Common SQL operations to perform using Pandas](https://medium.com/@akashmishra75/10-common-sql-operations-to-perform-using-pandas-81391246b92b?source=rss-38319d0d9864------2)
