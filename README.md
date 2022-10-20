@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Mishra</h1>
 <h3 align="center">Akash is a software engineer with experience working in the field of ELT Data Engineering (Snowflake, DBT, and creating data pipelines, data migration, and data modeling) and Software Engineering where he has worked in the Financial domain and solved business problems using Python, SQL, APIs, SSRS Data Analysis and Data Quality. He is also interested in data science and machine learning and loves to write technical blogs.</h3>
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=akash19x)](https://holopin.io/@akash19x)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash19x&label=Profile%20views&color=0e75b6&style=flat" alt="akash19x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash19x" alt="akash19x" /></a> </p>
