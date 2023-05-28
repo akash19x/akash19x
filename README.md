@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/switchhitx" target="blank"><img src="https://img.shields.io/twitter/follow/switchhitx?logo=twitter&style=for-the-badge" alt="switchhitx" /></a> </p>
 
-- 📝 I regularly write articles on [www.medium.com/@akashmishra75](www.medium.com/@akashmishra75)
+- 📝 I regularly write articles on [https://akashmishra.hashnode.dev/](**https://akashmishra.hashnode.dev/**)
 
 - 🔭 I’m currently working on **improving my data engineering and machine learning skills**
 
